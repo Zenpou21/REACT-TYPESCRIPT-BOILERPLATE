@@ -80,8 +80,8 @@ A comprehensive, production-ready React TypeScript boilerplate with Capacitor fo
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd BOILERPLATE-v1
+git clone https://github.com/Zenpou21/REACT-TYPESCRIPT-BOILERPLATE.git
+cd REACT-TYPESCRIPT-BOILERPLATE
 ```
 
 2. **Install dependencies**
