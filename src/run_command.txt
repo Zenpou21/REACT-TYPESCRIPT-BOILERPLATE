@@ -1,0 +1,9 @@
+npm run build
+npx cap copy
+npx cap sync 
+cd android
+gradlew assembleRelease
+
+cd ../
+npx cap open android
+ 
