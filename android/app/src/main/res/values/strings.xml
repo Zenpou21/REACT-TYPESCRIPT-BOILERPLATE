@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">SL WMS</string>
-    <string name="title_activity_main">SL WMS</string>
-    <string name="package_name">com.slcompany.warehouse_management_system</string>
-    <string name="custom_url_scheme">com.slcompany.warehouse_management_system</string>
+    <string name="app_name">TSX Boilerplate</string>
+    <string name="title_activity_main">TSX Boilerplate</string>
+    <string name="package_name">com.company.tsx_boilerplate</string>
+    <string name="custom_url_scheme">com.company.tsx_boilerplate</string>
 </resources>

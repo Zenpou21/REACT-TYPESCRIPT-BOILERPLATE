@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 
 android {
-    namespace "com.slcompany.warehouse_management_system"
+    namespace "com.company.tsx_boilerplate"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.slcompany.warehouse_management_system"
+        applicationId "com.company.tsx_boilerplate"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 3
@@ -19,9 +19,9 @@ android {
     }
      signingConfigs {
         release {
-            storeFile file('../../slwms-release-key.jks')
+            storeFile file('../../tsx_boilerplate-release-key.jks')
             storePassword 'P@55w0rd'
-            keyAlias 'SLWMS'
+            keyAlias 'TSXBoilerplate'
             keyPassword 'P@55w0rd'
         }
     }

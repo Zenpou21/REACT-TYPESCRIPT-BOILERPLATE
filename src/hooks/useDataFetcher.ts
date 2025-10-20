@@ -13,7 +13,7 @@ const useDataFetcher = ( endpoint: string, api?: string) => {
 
   useEffect(() => {
     const fetchAccessToken = async () => {
-      let cookieName = "wms_token";
+      let cookieName = "access_token";
       const cookie = await getCookie(cookieName);
       if (cookie) {
         const token = await decryptData(cookie);

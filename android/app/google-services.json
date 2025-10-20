@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "44656755407",
-    "project_id": "sl-wms",
-    "storage_bucket": "sl-wms.firebasestorage.app"
+    "project_id": "tsx-boilerplate",
+    "storage_bucket": "tsx-boilerplate.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:44656755407:android:184d99b9bc9897a29cadba",
         "android_client_info": {
-          "package_name": "com.slcompany.warehouse_management_system"
+          "package_name": "com.company.tsx_boilerplate"
         }
       },
       "oauth_client": [],

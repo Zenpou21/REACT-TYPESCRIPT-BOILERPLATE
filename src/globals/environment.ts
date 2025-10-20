@@ -9,14 +9,14 @@ const environments = {
     url: "http://localhost:5175",
   },
   test: {
-   api: "https://sl-wms-api-test.flowcsolutions.com",
-    cookie: ".flowcsolutions.com",
-    url: "sl-wms-test.flowcsolutions.com",
+   api: "your test api url here",
+    cookie: "your test cookie domain here",
+    url: "your test app url here",
   },
   prod: {
-   api: "https://sl-wms-api.flowcsolutions.com",
-    cookie: ".flowcsolutions.com",
-    url: "sl-wms.flowcsolutions.com",
+   api: "your production api url here",
+    cookie: "your production cookie domain here",
+    url: "your production app url here",
   },
   
 };

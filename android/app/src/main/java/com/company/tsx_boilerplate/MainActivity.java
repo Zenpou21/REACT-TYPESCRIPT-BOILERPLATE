@@ -1,4 +1,4 @@
-package com.slcompany.warehouse_management_system;
+package com.company.tsx_boilerplate;
 
 import com.getcapacitor.BridgeActivity;
 
